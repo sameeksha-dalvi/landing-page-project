@@ -35,3 +35,12 @@ a{
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button{
+    background-color:#3882F6 ;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 7px;
+    border: none;
+    font-size: 18px;
+}
