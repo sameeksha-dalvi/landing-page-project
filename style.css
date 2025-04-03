@@ -44,3 +44,19 @@ button{
     border: none;
     font-size: 18px;
 }
+
+.header-container-two{
+    display: flex;
+    justify-content: space-between;
+}
+
+#hero-main{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+#header-image{
+    width: 400px;
+    height: 200px;
+}
