@@ -96,3 +96,26 @@ button{
     font-size: 18px;
      color: #595a5b;
 }
+
+.quote-section{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+#quote-text{
+    width: 800px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+   text-align: left;
+    font-weight: 200 ;
+}
+#quote-by{
+    font-size: 20px;
+    color: #1F2937;
+    font-weight: bold;
+}
