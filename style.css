@@ -60,3 +60,39 @@ button{
     width: 400px;
     height: 200px;
 }
+
+.info-heading{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 52px;
+    
+    
+}
+
+.items-container{
+    width: 200px;
+    text-align: center;
+}
+
+.info-images{
+    width: 200px;
+    height: 200px;
+    border: #3882F6;
+    border-style: solid;
+    border-radius: 12px;
+}
+
+.info-text{
+    font-size: 18px;
+     color: #595a5b;
+}
